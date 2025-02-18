@@ -15,9 +15,8 @@ This project was developed by a team of five as part of a software development i
 ## Tech Stack
 - **IDE**: Android Studio
 - **Programming Language**: Java
-- **Database**: Firebase Firestore
+- **Database**: Firebase (Serverless DB)
 - **Authentication**: Firebase Authentication
-- **Cloud Services**: Firebase Functions (if applicable)
 - **Version Control**: Git & GitHub
 
 ## Installation
